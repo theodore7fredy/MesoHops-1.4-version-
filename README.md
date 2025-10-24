@@ -605,8 +605,8 @@ If you use MesoHops in your research, please cite:
 **Théodore Goumai Vedekoi**  
 PhD Candidate in Physics  
 University of Yaoundé I  
-📧 Contact: [your.email@example.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [ResearchGate](https://researchgate.net/profile/yourprofile)
+📧 Contact: [theodore.goumai@facsciences-uy1.cm]  
+🔗 [ResearchGate](https://www.researchgate.net/profile/Theodore-Goumai-Vedekoi?ev=hdr_xprf)
 
 ### Supervisors
 - **Prof. Nana Engo S. G.** - University of Yaoundé I
@@ -689,7 +689,7 @@ of this software and associated documentation files...
 
 If you find MesoHops useful, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/mesohops&type=Date)](https://star-history.com/#yourusername/mesohops&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=theodore7fredy/mesohops&type=Date)](https://star-history.com/#theodore7fredy/mesohops&Date)
 
 ---
 
@@ -697,13 +697,10 @@ If you find MesoHops useful, please consider giving it a star! ⭐
 
 ### Get Help
 - 📖 **Documentation**: [mesohops.readthedocs.io](https://mesohops.readthedocs.io)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/mesohops/discussions)
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/yourusername/mesohops/issues)
-- 📧 **Email**: your.email@example.com
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/theodore7fredy/MesoHops-1.4-version-/discussions)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/theodore7fredy/MesoHops-1.4-version-/issues)
+- 📧 **Email**: theodore.goumai@facsciences-uy1.cm
 
-### Stay Updated
-- 🐦 **Twitter**: [@MesoHops](https://twitter.com/mesohops) (if applicable)
-- 📰 **Blog**: [mesohops.github.io/blog](https://mesohops.github.io/blog) (if applicable)
 
 ---
 
@@ -728,6 +725,6 @@ MesoHops builds upon decades of theoretical and computational advances in open q
 
 ---
 
-Made with ❤️ by the **Groupe Le Tuteur (GLT)** research team
+Made with ❤️ by the **Theodore GOUMAI VEDEKOI**
 
 </div>
